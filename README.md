@@ -16,12 +16,4 @@ A clean, modern authentication UI built with **Flutter**, mimicking real login a
 - Google sign-in button (UI only, not functional yet)
 - Clean structure, easy to integrate with a real backend
 
-## 📱 Screens
-
 | Login Page            | Sign Up Page           | Home Page              |
-|-----------------------|------------------------|------------------------|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) | ![Home](screenshots/home.png) |
-
-> 📝 These are mock screens. You can customize or add real authentication logic.
-
-
